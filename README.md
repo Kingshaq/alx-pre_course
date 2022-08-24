@@ -1,2 +1,2 @@
 My first readme
-Learning With ALXis fun
+Learning With ALX is fun
